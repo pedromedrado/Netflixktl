@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetflixKtl</string>
+    <string name="ola_mundo">Ola mundo</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="similar">Opções semelhantes</string>
+
+</resources>
